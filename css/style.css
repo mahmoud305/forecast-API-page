@@ -80,7 +80,7 @@ input ,.findBtn{
     margin-bottom: 50px;
 }
 
-#forecastContainer .col-md-4:nth-child(even) {
+#forecastContainer .col-lg-4:nth-child(even) {
     background-color: #262936;
 }
 
